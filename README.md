@@ -32,4 +32,4 @@ This project is a system designed to register products and manage auctions. The 
 - Management of products sold.
 - Display of products already registered.
 
-Translated with DeepL.com (free version)
+
